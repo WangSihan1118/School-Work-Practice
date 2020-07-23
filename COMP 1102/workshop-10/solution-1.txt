@@ -1,0 +1,5 @@
+int get_value(int index, int length)
+{
+    a = array[index];
+    return a;
+}

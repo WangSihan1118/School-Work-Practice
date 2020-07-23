@@ -1,0 +1,8 @@
+This is a kitchen management sysytem.
+
+This project is consisted of two main parts. 
+
+One is order system, the other is finanical system which can caculate cost and revenue.
+
+Food class is abstract basis class. Which is the root class for all of the object of our project.
+Based on Food 

@@ -1,0 +1,13 @@
+#include <string>
+int wordFrequency(string word)
+{
+    string targetWordWord = word;
+    int count;
+    read txt as a array;
+    for(int i = 0, i < sizeof(array), i++){
+        if(array[i] == word){
+            count++
+        }
+    }
+    return count;
+}

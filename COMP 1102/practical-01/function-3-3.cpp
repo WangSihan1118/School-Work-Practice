@@ -1,0 +1,6 @@
+#include <iostream>
+// function to ...
+double weightedaverage(int array[], int n)
+{
+	// your code goes here ...
+}
